@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jhl0Ee/0+PpNoIXXpJTKeEGVZB0dJ/LUs2q0/WFfGJg=",
+  "Hash": "8exG0LiX2hwiSKkglN/iLeVZ6ei6qpoZSbKpxG0X1MA=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication2\\wwwroot",
       "Source": "WebApplication2",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css",
       "SourceId": "WebApplication2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "WebApplication2.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css"
+      "OriginalItemSpec": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\bundle\\WebApplication2.styles.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css",
       "SourceId": "WebApplication2",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "WebApplication2.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\WebApplication2.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\css\\site.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\css\\style.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,95 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\20CVC單面大小條.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\20230712_065541631_iOS.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "images/20230712_065541631_iOS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20230712_065541631_iOS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\20230712_065545483_iOS.jpg",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "images/20230712_065545483_iOS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20230712_065545483_iOS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\20230712_065555074_iOS.jpg",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "images/20230712_065555074_iOS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20230712_065555074_iOS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\20230720_081003149_IOS.jpg",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "images/20230720_081003149_IOS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20230720_081003149_IOS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\20240420_045654717_iOS.jpg",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "images/20240420_045654717_iOS.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\20240420_045654717_iOS.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\20CVC單面大小條.jpg",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/20CVC單面大小條.jpg",
       "AssetKind": "All",
@@ -136,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\20CVC單面大小條.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\228條.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\228條.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/228條.jpg",
       "AssetKind": "All",
@@ -153,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\228條.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\24CVC單面.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\24CVC單面.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/24CVC單面.jpg",
       "AssetKind": "All",
@@ -170,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\24CVC單面.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\30CVC單面.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\30CVC單面.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/30CVC單面.jpg",
       "AssetKind": "All",
@@ -187,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\30CVC單面.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\4812條.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\4812條.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/4812條.jpg",
       "AssetKind": "All",
@@ -204,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4812條.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\about.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\about.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/about.jpg",
       "AssetKind": "All",
@@ -221,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\carousel-1.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\carousel-1.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/carousel-1.jpg",
       "AssetKind": "All",
@@ -238,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\carousel-2.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\carousel-2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/carousel-2.jpg",
       "AssetKind": "All",
@@ -255,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\cat-1.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\cat-1.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/cat-1.jpg",
       "AssetKind": "All",
@@ -272,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cat-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\cat-2.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\cat-2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/cat-2.jpg",
       "AssetKind": "All",
@@ -289,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cat-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\cat-3.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\cat-3.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/cat-3.jpg",
       "AssetKind": "All",
@@ -306,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cat-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\cat-4.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\cat-4.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/cat-4.jpg",
       "AssetKind": "All",
@@ -323,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cat-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\course-1.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\course-1.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/course-1.jpg",
       "AssetKind": "All",
@@ -340,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\course-2.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\course-2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/course-2.jpg",
       "AssetKind": "All",
@@ -357,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\course-3.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\course-3.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/course-3.jpg",
       "AssetKind": "All",
@@ -374,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\course-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\CVC細絨.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\CVC細絨.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/CVC細絨.jpg",
       "AssetKind": "All",
@@ -391,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\CVC細絨.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__30441527.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__30441527.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__30441527.jpg",
       "AssetKind": "All",
@@ -408,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__30441527.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__30449671.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__30449671.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__30449671.jpg",
       "AssetKind": "All",
@@ -425,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__30449671.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__30449672.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__30449672.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__30449672.jpg",
       "AssetKind": "All",
@@ -442,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__30449672.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__32768057.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__32768057.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__32768057.jpg",
       "AssetKind": "All",
@@ -459,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__32768057.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__32768059.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__32768059.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__32768059.jpg",
       "AssetKind": "All",
@@ -476,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__32768059.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__32768060.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__32768060.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__32768060.jpg",
       "AssetKind": "All",
@@ -493,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__32768060.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\S__32768061.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\S__32768061.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/S__32768061.jpg",
       "AssetKind": "All",
@@ -510,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\S__32768061.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\team-1.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\team-1.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/team-1.jpg",
       "AssetKind": "All",
@@ -527,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\team-2.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\team-2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/team-2.jpg",
       "AssetKind": "All",
@@ -544,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\team-3.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\team-3.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/team-3.jpg",
       "AssetKind": "All",
@@ -561,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\team-4.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\team-4.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/team-4.jpg",
       "AssetKind": "All",
@@ -578,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\testimonial-1.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/testimonial-1.jpg",
       "AssetKind": "All",
@@ -595,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\testimonial-2.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/testimonial-2.jpg",
       "AssetKind": "All",
@@ -612,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\testimonial-3.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\testimonial-3.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/testimonial-3.jpg",
       "AssetKind": "All",
@@ -629,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\testimonial-4.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\testimonial-4.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/testimonial-4.jpg",
       "AssetKind": "All",
@@ -646,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\四面彈力布.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\四面彈力布.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/四面彈力布.jpg",
       "AssetKind": "All",
@@ -663,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\四面彈力布.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\images\\搖粒布.jpg",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\images\\搖粒布.jpg",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "images/搖粒布.jpg",
       "AssetKind": "All",
@@ -680,10 +765,44 @@
       "OriginalItemSpec": "wwwroot\\images\\搖粒布.jpg"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "js/jquery-3.4.1.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\js\\main.js",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -697,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -714,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -731,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -748,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -765,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -782,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -799,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -816,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -833,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -850,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -867,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -884,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -901,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -918,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -935,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -952,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -969,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -986,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1003,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1020,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1037,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1054,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1071,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1088,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1105,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1122,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1139,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1156,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1173,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1190,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1207,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1224,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1241,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1258,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1275,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1292,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1309,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1326,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1343,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1360,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1377,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1394,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1411,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1428,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1445,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1462,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1479,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1496,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1513,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -1530,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -1547,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1564,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1581,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1598,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1615,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1632,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1649,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1666,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1683,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1700,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1717,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1734,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1751,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -1768,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -1785,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -1802,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -1819,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -1836,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -1853,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -1870,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -1887,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -1904,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -1921,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1938,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -1955,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -1972,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -1989,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "WebApplication2",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vigor\\source\\repos\\WebApplication2\\HungyiWebTest\\WebApplication2\\wwwroot\\",
       "BasePath": "_content/WebApplication2",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",
